@@ -6,6 +6,8 @@ Projeto Calculadora de IMC conforme aula do Mateus Silva no [YouTube.](https://w
 
 Calculadora IMC com base em peso, altura, sexo e nível de atividade física.
 
+<img src="assets/img/print.jpg" width="450px">
+
 ## :closed_book:Tecnologias
 
 * HTML
